@@ -1,0 +1,5 @@
+{
+  "name": "CIO Chat",
+  "description": "A secure, production-ready public group chat for executives and IT professionals, built with React and Firebase.",
+  "requestFramePermissions": []
+}
